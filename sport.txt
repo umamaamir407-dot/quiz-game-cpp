@@ -1,0 +1,399 @@
+How many players are on a football (soccer) team?
+9
+10
+11
+12
+3
+1
+
+What sport uses a shuttlecock?
+Tennis
+Badminton
+Cricket
+Hockey
+2
+1
+
+In which sport is the term "love" used?
+Tennis
+Volleyball
+Football
+Basketball
+1
+1
+
+How many minutes are there in a standard professional basketball game?
+40
+48
+50
+60
+2
+1
+
+What country won the first FIFA World Cup?
+Brazil
+Germany
+Uruguay
+Italy
+3
+1
+
+Which sport involves a pommel horse?
+Gymnastics
+Wrestling
+Weightlifting
+Judo
+1
+1
+
+What is the national sport of Japan?
+Sumo
+Karate
+Baseball
+Judo
+1
+1
+
+How many points is a touchdown worth in American football?
+3
+6
+7
+5
+2
+1
+
+Which sport is known as the "king of sports"?
+Cricket
+Football
+Tennis
+Hockey
+2
+1
+
+What is the maximum score in a single frame of bowling?
+10
+30
+50
+300
+4
+1
+
+Which country hosts the Tour de France?
+Italy
+Spain
+France
+Germany
+3
+1
+
+What equipment is used in fencing?
+Sword
+Shield
+Bow
+Pistol
+1
+1
+
+How long is an Olympic swimming pool?
+25 meters
+50 meters
+100 meters
+75 meters
+2
+1
+
+Who has won the most Olympic gold medals?
+Usain Bolt
+Michael Phelps
+Carl Lewis
+Mark Spitz
+2
+1
+
+Which sport uses the terms "putt" and "par"?
+Golf
+Tennis
+Cricket
+Bowling
+1
+1
+
+How many rings are on the Olympic flag?
+3
+5
+6
+7
+2
+1
+
+Which sport is played at Wimbledon?
+Golf
+Tennis
+Squash
+Cricket
+2
+1
+
+In which country did cricket originate?
+Australia
+India
+England
+South Africa
+3
+1
+
+What is a perfect score in 10-pin bowling?
+100
+200
+250
+300
+4
+1
+
+Which sport uses a puck?
+Hockey
+Ice Skating
+Lacrosse
+Rugby
+1
+1
+
+How many players are on a rugby union team?
+11
+13
+15
+16
+3
+1
+
+What sport is Serena Williams famous for?
+Tennis
+Basketball
+Volleyball
+Table Tennis
+1
+1
+
+In which sport can you get a "strike"?
+Cricket
+Bowling
+Tennis
+Badminton
+2
+1
+
+Which country won the Cricket World Cup in 2019?
+India
+England
+Australia
+New Zealand
+2
+1
+
+What is the term for scoring three goals in a football match by one player?
+Hat-trick
+Triple-play
+Grand slam
+Century
+1
+1
+
+How long is an Olympic marathon?
+40 km
+42.195 km
+45 km
+50 km
+2
+1
+
+Which sport uses the term "checkmate"?
+Chess
+Boxing
+Fencing
+Judo
+1
+1
+
+In which sport is the Davis Cup awarded?
+Tennis
+Cricket
+Football
+Rugby
+1
+1
+
+How many bases are there in baseball?
+2
+3
+4
+5
+3
+1
+
+Who holds the record for most goals in football?
+Lionel Messi
+Cristiano Ronaldo
+Pele
+Neymar
+2
+1
+
+What sport is associated with the Super Bowl?
+Baseball
+American Football
+Soccer
+Hockey
+2
+1
+
+In gymnastics, what is a "vault"?
+A balance move
+A leap over apparatus
+A floor routine
+A swing move
+2
+1
+
+Which sport involves ice and sticks?
+Curling
+Hockey
+Skating
+Snowboarding
+2
+1
+
+Who won the FIFA World Cup in 2018?
+Brazil
+Germany
+France
+Argentina
+3
+1
+
+What is the shape of a cricket ball?
+Oval
+Round
+Spherical
+Elliptical
+3
+1
+
+How long is a standard rugby match?
+60 min
+70 min
+80 min
+90 min
+3
+1
+
+Which country is famous for producing the most Olympic gold medals in gymnastics?
+Russia
+China
+USA
+Germany
+3
+1
+
+In which sport do teams compete for the Stanley Cup?
+Hockey
+Football
+Basketball
+Baseball
+1
+1
+
+Which athlete is known as "Lightning Bolt"?
+Usain Bolt
+Michael Phelps
+Carl Lewis
+Jesse Owens
+1
+1
+
+How many players are on a volleyball team on the court?
+5
+6
+7
+8
+2
+1
+
+What is the standard weight of a shot put ball for men?
+5 kg
+6 kg
+7.26 kg
+10 kg
+3
+1
+
+Which sport uses a javelin?
+Athletics
+Swimming
+Gymnastics
+Archery
+1
+1
+
+What is the term for scoring in basketball?
+Goal
+Try
+Basket
+Run
+3
+1
+
+In which country did table tennis originate?
+China
+Japan
+England
+USA
+1
+1
+
+How many sets are played in a standard tennis match (men’s Grand Slam)?
+3
+4
+5
+6
+3
+1
+
+Which sport is Muhammad Ali famous for?
+Boxing
+Wrestling
+Karate
+Judo
+1
+1
+
+What is the maximum time for a chess game called?
+Overtime
+Blitz
+Sudden death
+Rapid
+3
+1
+
+Which sport uses helmets and wickets?
+Cricket
+Baseball
+Hockey
+Football
+1
+1
+
+How many points is a free throw worth in basketball?
+1
+2
+3
+4
+1
+1
+
+Who is known as the "Flying Finn" in athletics?
+Paavo Nurmi
+Carl Lewis
+Usain Bolt
+Mo Farah
+1
+1

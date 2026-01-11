@@ -1,0 +1,399 @@
+What does CPU stand for?  
+Central Processing Unit  
+Computer Personal Unit  
+Central Program Unit  
+Control Processing Unit  
+1  
+1  
+
+Which language is primarily used for web development?  
+Python  
+HTML  
+C++  
+Java  
+2  
+1  
+
+What does RAM stand for?  
+Random Access Memory  
+Read Access Memory  
+Rapid Access Memory  
+Run All Memory  
+1  
+1  
+
+Which device is used to input data into a computer?  
+Monitor  
+Keyboard  
+Printer  
+Speaker  
+2  
+1  
+
+What does HTML stand for?  
+Hyper Text Markup Language  
+High Tech Machine Language  
+Hyperlinks and Text Markup Language  
+High Transfer Markup Language  
+1  
+1  
+
+Which of the following is an operating system?  
+Microsoft Word  
+Windows 10  
+Python  
+Google Chrome  
+2  
+1  
+
+What does BIOS stand for?  
+Basic Input Output System  
+Binary Input Output System  
+Basic Internal Operating System  
+Binary Internal Operating System  
+1  
+1  
+
+Which part of the computer performs calculations?  
+RAM  
+CPU  
+Hard Drive  
+Monitor  
+2  
+1  
+
+What is the permanent storage device in a computer?  
+RAM  
+Hard Disk Drive  
+Cache  
+ROM  
+2  
+1  
+
+Which of these is a programming language?  
+Windows  
+Python  
+Excel  
+Google  
+2  
+1  
+
+What does URL stand for?  
+Uniform Resource Locator  
+Universal Resource Link  
+Uniform Readable Link  
+Unique Resource Locator  
+1  
+1  
+
+Which device is used to display output from a computer?  
+Mouse  
+Monitor  
+Keyboard  
+Printer  
+2  
+1  
+
+Which is the brain of the computer?  
+RAM  
+CPU  
+Hard Disk  
+Motherboard  
+2  
+1  
+
+Which of the following is not an input device?  
+Mouse  
+Keyboard  
+Scanner  
+Monitor  
+4  
+1  
+
+What does GUI stand for?  
+Graphical User Interface  
+General User Interaction  
+Graphic Utility Input  
+Graphical Unit Interface  
+1  
+1  
+
+Which storage is faster?  
+SSD  
+HDD  
+Floppy Disk  
+CD-ROM  
+1  
+1  
+
+Which of these is a web browser?  
+Google Chrome  
+Microsoft Word  
+Excel  
+PowerPoint  
+1  
+1  
+
+What is the main function of the operating system?  
+Design graphics  
+Manage hardware and software resources  
+Write code  
+Browse Internet  
+2  
+1  
+
+Which language is used for Android app development?  
+Java  
+C++  
+Python  
+HTML  
+1  
+1  
+
+What is the size of IPv4 address?  
+32 bits  
+64 bits  
+128 bits  
+256 bits  
+1  
+1  
+
+Which type of memory is volatile?  
+ROM  
+RAM  
+Hard Disk  
+SSD  
+2  
+1  
+
+Which is a search engine?  
+Google  
+Windows  
+Python  
+Excel  
+1  
+1  
+
+Which protocol is used to transfer web pages?  
+HTTP  
+FTP  
+SMTP  
+IP  
+1  
+1  
+
+Which of these is a type of computer network?  
+LAN  
+PAN  
+WAN  
+All of the above  
+4  
+1  
+
+What does URL http://www.example.com represent?  
+Email Address  
+Web Address  
+IP Address  
+Domain Name  
+2  
+1  
+
+Which of these is used to protect a computer from viruses?  
+Firewall  
+Antivirus Software  
+Encryption  
+Backup  
+2  
+1  
+
+What does CSS stand for?  
+Cascading Style Sheets  
+Computer Style System  
+Creative Style Sheets  
+Coded Style System  
+1  
+1  
+
+Which part of the computer stores instructions temporarily while processing?  
+ROM  
+RAM  
+Hard Drive  
+Cache  
+2  
+1  
+
+Which of these is a markup language?  
+C++  
+HTML  
+Python  
+Java  
+2  
+1  
+
+Which device is required for a computer to connect to the Internet?  
+Modem  
+Keyboard  
+Printer  
+Monitor  
+1  
+1  
+
+Which of these is cloud storage?  
+Google Drive  
+USB Flash Drive  
+CD-ROM  
+HDD  
+1  
+1  
+
+Which language is primarily used for database management?  
+SQL  
+Python  
+HTML  
+JavaScript  
+1  
+1  
+
+Which of these is not a programming language?  
+Java  
+Python  
+HTML  
+Linux  
+4  
+1  
+
+What does IP stand for in networking?  
+Internet Protocol  
+Internal Process  
+Input Program  
+Interface Protocol  
+1  
+1  
+
+Which of these is an example of open-source software?  
+Windows  
+Linux  
+MacOS  
+Microsoft Office  
+2  
+1  
+
+Which key combination is used to copy selected text?  
+Ctrl + X  
+Ctrl + C  
+Ctrl + V  
+Ctrl + Z  
+2  
+1  
+
+Which part of a computer is considered volatile memory?  
+ROM  
+RAM  
+Hard Disk  
+Flash Drive  
+2  
+1  
+
+Which protocol is used to send emails?  
+SMTP  
+FTP  
+HTTP  
+IP  
+1  
+1  
+
+Which storage device uses flash memory?  
+HDD  
+SSD  
+CD-ROM  
+Floppy Disk  
+2  
+1  
+
+Which programming language is used for AI and Machine Learning?  
+Python  
+HTML  
+CSS  
+SQL  
+1  
+1  
+
+Which is the largest unit of data?  
+MB  
+GB  
+TB  
+PB  
+4  
+1  
+
+Which device converts digital signals to analog signals?  
+Modem  
+Router  
+Switch  
+Hub  
+1  
+1  
+
+Which of these is used to prevent unauthorized access to a network?  
+Firewall  
+Monitor  
+Printer  
+Scanner  
+1  
+1  
+
+What does HTTPS stand for?  
+Hyper Text Transfer Protocol Secure  
+High Transfer Text Protocol Secure  
+Hyperlinks Text Transfer Protocol Secure  
+Hyper Text Technology Protocol Secure  
+1  
+1  
+
+Which part of computer is responsible for graphics rendering?  
+CPU  
+GPU  
+RAM  
+ROM  
+2  
+1  
+
+Which of these is a database management system?  
+MySQL  
+Windows  
+Python  
+Java  
+1  
+1  
+
+Which storage device is magnetic?  
+CD-ROM  
+Hard Disk Drive  
+SSD  
+Flash Drive  
+2  
+1  
+
+Which of these is used to prevent malware attacks?  
+Antivirus  
+Firewall  
+Both  
+None  
+3  
+1  
+
+What does DNS stand for?  
+Domain Name System  
+Data Name System  
+Digital Name Server  
+Domain Network Service  
+1  
+1  
+
+Which programming language is known as the mother of all languages?  
+C  
+C++  
+Python  
+Java  
+1  
+1
